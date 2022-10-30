@@ -34,7 +34,7 @@ Prerequisites
 Clone the project
 
 ```bash
-  git clone https://github.com/renatoallart/search
+  git clone https://github.com/renatoallart/search.git
 ```
 
 Go to the project directory
