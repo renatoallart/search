@@ -5,7 +5,7 @@ An application in Reactjs to search a User by name.
 
 
 
-## Table of contentes
+## Table of contents
 
 * [Motivations](#Motivations)
 * [Technologies](#Technologies)
